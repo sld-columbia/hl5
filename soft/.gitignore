@@ -2,5 +2,8 @@
 !srec2text.py
 !Makefile
 !*.c
+!*.h
+!*.S
+!*.ld
 !.gitignore
 !common
