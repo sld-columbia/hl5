@@ -1,0 +1,16 @@
+cachelib
+memlib
+*.bin
+Makefile.prj
+bdw_work
+*.shm
+*.ccpp
+.project.tcl.check
+.stratusIDEProjectSettings
+.syn.qws
+.stack.*
+*.key
+*.log
+*.svwf
+*.qws
+*.Xil
